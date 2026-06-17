@@ -21,7 +21,7 @@
 // PUBLISHER CONFIGURATION — edit these 4 lines when deploying
 // for a new publisher. Everything else is platform code.
 // ============================================================
-const ORIGIN_URL    = 'https://tech-briefing-demo.vercel.app'; // publisher's site
+const ORIGIN_URL    = 'https://tech-briefing-tau.vercel.app'; // publisher's site
 const PLATFORM_URL  = 'https://testbot-two-psi.vercel.app';     // boop platform
 const PUB_ID        = 'pub_002';                                 // your publisher ID
 const PUB_TOKEN     = 'pk_pub_002_techbriefing';               // your auth token
